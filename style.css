@@ -1,0 +1,22 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.cabeçalho {
+    background-color: bisque;
+    color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+
+}
+.cab-imagem{
+width: 15%;
+}
+.item {
+    display:inline-block;
+    margin: 0 16px;
+}
