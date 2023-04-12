@@ -1,22 +1,32 @@
-*
-{
+
+*{
     margin: 0;
     padding: 0;
 }
-
-.cabeçalho {
-    background-color: bisque;
-    color: black;
+.cabeça {
+    background-color: #221B1B;
+    color: #FFFFFF;
     display: flex;
-    justify-content: space-around;
-    align-items: center;
-    padding: 24px 0;
+   justify-content: space-around;
+   align-items: center;
+   
 
 }
-.cab-imagem{
-width: 15%;
+.titulo{
+    display: flex;
+    font-size: xx-large;
+   
 }
-.item {
-    display:inline-block;
-    margin: 0 16px;
+body {
+    background-color: #DFD5D5;
+}
+
+.IMGCB1{
+    width: 10%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.item{
+    margin: 0%, 16px;
 }
